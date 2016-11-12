@@ -1,0 +1,7 @@
+<?php
+
+
+function my_blank_preprocess_menu_local_task(&$variables) {
+
+//  $variables['link']['#options']['attributes']['class'][] = 'nav-link';
+}
